@@ -25,6 +25,7 @@ namespace Aboba
         private void button1_MouseLeave(object sender, EventArgs e)
         {
             button1.BackColor = Color.White;
+            button1.Text = "Aboba";
         }
 
         private void button1_Click(object sender, EventArgs e)
