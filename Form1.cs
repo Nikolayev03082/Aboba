@@ -19,6 +19,7 @@ namespace Aboba
         private void button1_MouseEnter(object sender, EventArgs e)
         {
             button1.BackColor = Color.Brown;
+            button1.Text = "SUS";
         }
 
         private void button1_MouseLeave(object sender, EventArgs e)
